@@ -1,0 +1,18 @@
+/*External CSS*/
+/*Using the element name will style any element with the same name that does not have the ID or Class attribute.*/
+button{
+    background-color: #ff0000;
+    color: #000000;
+    border-radius: 10px;
+}
+
+/*Class*/
+/*Using the class attribute makes all elements with the same class name receive the same styling.*/
+.B1{
+    text-decoration: overline underline;
+    color: #000000;
+}
+
+#gbutton{
+    background-color: #008000;
+}
